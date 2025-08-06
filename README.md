@@ -1,3 +1,5 @@
+
+
 ![Vocal Vision Thumbnail](images/project_thumbnail.png)
 
 
