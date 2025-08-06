@@ -1,6 +1,6 @@
 
 
-![Vocal Vision Thumbnail](images/project_thumbnail.png)
+![Vocal Vision Thumbnail](Images/project_thumbnail.png)
 
 
 # 🔊 Vocal Vision: Real Time Audio Accessibility
