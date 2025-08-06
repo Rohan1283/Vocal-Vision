@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Images/project_thumbnail.png" alt="Vocal Vision Thumbnail" width="600">
+  <img src="Images/project_thumbnail.png" alt="Vocal Vision Thumbnail" width="400" height="200">
 </p>
 
 
