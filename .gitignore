@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# macOS metadata files
+.DS_Store
+
+# Logs and dumps
+*.log
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# IDE or editor folders
+.vscode/
+.idea/
+
+# Audio and temporary files
+*.mp3
+*.wav
+*.tmp
+
+# Pygame or output files
+*.ogg
+*.pygamecache
+
+# Raspberry Pi specific
+*.swp
+
+# Python dependency cache
+*.egg-info/
+dist/
+build/
+
+# Test files
+test_*.py
