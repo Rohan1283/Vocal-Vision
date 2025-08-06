@@ -1,6 +1,7 @@
 
-
-![Vocal Vision Thumbnail](Images/project_thumbnail.png)
+<p align="center">
+  <img src="Images/project_thumbnail.png" alt="Vocal Vision Thumbnail" width="600">
+</p>
 
 
 # 🔊 Vocal Vision: Real Time Audio Accessibility
