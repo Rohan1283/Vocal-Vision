@@ -81,4 +81,20 @@ sudo apt install python3-pip
 # (Make sure you are in the directory with requirements.txt)
 pip3 install -r requirements.txt
 
-# 🔊 5. Install aud
+# 🔊 5. Install audio libraries
+sudo apt install espeak ffmpeg libespeak1
+
+# 🎥 6. Install OpenCV
+pip3 install opencv-python
+
+# 🔡 7. Install Pytesseract
+pip3 install pytesseract
+
+# 🌍 8. Install Google Translate library
+pip3 install googletrans==4.0.0-rc1
+
+# 🗣️ 9. Install pyttsx3 for Text-to-Speech
+pip3 install pyttsx3
+
+# ✅ 10. Run the program
+python3 main.py
